@@ -17,7 +17,9 @@ Hellow everyone, my name is Korey Floyd, I am excited to start this course with 
 * Gaming
 * Carpentry
 * Cooking
-[I have more but you get the point]
+
+I have more but you get the point..
+
 ## Websites I Recommend
 - [Youtube] (https://www.youtube.com) - I believe that Youtube is a great website for anyone who is looking into getting into a new hobby, there are endless videos for any type of hobbie and they are great for visual learners.
 - [Reddit] (https://www.reddit.com) - I find Reddit to be a great website as well. You can find a lot more inforation about very specific topics than you can on other websites. Also a great website for hobbiest. 
